@@ -37,3 +37,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-Doing More With Less
+    description: A scintillating topic.
+    published: Mon, 1 Jan 2026 18:00:00 GMT
+    file: /audio/TFIT06.mp3
+    duration: 00:00:44
+    length: 705,174
